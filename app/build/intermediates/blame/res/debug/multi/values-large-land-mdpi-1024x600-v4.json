@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-land-mdpi-1024x600-v4/values-large-land-mdpi-1024x600-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/shantanu/.android/build-cache/8e2b977211f8761b4c7ce9024b2e06c054d6ffb6/output/res/values-large-land-mdpi-1024x600-v4/values-large-land-mdpi-1024x600-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+<style name="RTE_ToolbarButton" parent="@android:style/Widget.ImageButton">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_gravity">center</item>
+    <item name="android:layout_marginTop">4dip</item>
+    <item name="android:layout_marginBottom">4dip</item>
+    <item name="android:layout_marginLeft">4dip</item>
+    <item name="android:gravity">center</item>
+    <item name="android:adjustViewBounds">true</item>
+</style>

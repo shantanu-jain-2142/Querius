@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rel_layout"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.login_signup_screendesign_demo.ques_ask">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:foreground="?selectableItemBackground"
+        app:cardBackgroundColor="@color/cardview_light_background"
+        app:cardCornerRadius="7dp"
+        app:cardElevation="3dp"
+        app:contentPadding="4dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_head"
+                android:text="ASK A QUESTION"
+                android:textAlignment="center"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <AutoCompleteTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:id="@+id/topic_suggest"
+                    android:completionThreshold="1"
+                    android:hint="Please select Question Category" />
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/btn3"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_marginTop="5dp"-->
+                    <!--android:layout_height="24dp"-->
+                    <!--android:layout_weight="0"-->
+                    <!--app:srcCompat="@drawable/ic_expand_more_black_24dp"-->
+                    <!--/>-->
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="3dp"
+                >
+
+                <com.login_signup_screendesign_demo.RoundedImageView
+                    android:id="@+id/logo4"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_below="@+id/ques"
+                    android:layout_gravity="fill_vertical"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginTop="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/thoms" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tejas Srivastava asks"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:id="@+id/questionee"
+                    />
+
+
+            </LinearLayout>
+
+
+            <AutoCompleteTextView
+                android:id="@+id/ask_ques"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:layout_marginTop="0dp"
+                android:hint="The Question Goes Here."
+                android:textSize="20sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/card"
+        android:foreground="?selectableItemBackground"
+        app:cardBackgroundColor="@color/cardview_light_background"
+        app:cardCornerRadius="7dp"
+        app:cardElevation="3dp"
+        app:contentPadding="10dp"
+        android:layout_marginTop="5dp"
+        >
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ASK"
+            android:textColor="@color/cardview_light_background"
+            android:layout_margin="@dimen/cardview_default_radius"
+            android:textSize="15sp"
+            android:id="@+id/ask_button"
+            tools:background="@android:color/holo_red_dark" />
+
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

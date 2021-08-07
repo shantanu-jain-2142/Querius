@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,423 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:4:5-49
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /home/shantanu/.android/build-cache/1785d21049e884bd20ade381fdc2988fcdc59ee4/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /home/shantanu/.android/build-cache/9981840df3db691c74495308874bd182390f7877/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.Mariovc:ImagePicker:1.2.0] /home/shantanu/.android/build-cache/40bfaa6c80d0deab095308f6f5f905b77c4b21e6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/shantanu/.android/build-cache/018344c328abdea4855da6e438bd01939a667c78/output/AndroidManifest.xml:20:5-43
+MERGED from [com.ms-square:expandableTextView:0.1.4] /home/shantanu/.android/build-cache/7e46853588d66677295a1f3ea72096deb76333e4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/shantanu/.android/build-cache/9acf8ba013fd30a96c14247e08d948d9fa0914d1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/shantanu/.android/build-cache/ee8eb1d1134a50f8210565cd7e2762b38890af05/output/AndroidManifest.xml:19:5-43
+MERGED from [jp.wasabeef:richeditor-android:1.2.2] /home/shantanu/.android/build-cache/d108fda665246803af5edcca4a4cd5f5aca1be0e/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.mthli:Knife:v1.1] /home/shantanu/.android/build-cache/23816b6b2c47532cb2c9c56245eb7abb0791d984/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.1gravity:android-rteditor:1.4.1] /home/shantanu/.android/build-cache/8e2b977211f8761b4c7ce9024b2e06c054d6ffb6/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.1gravity:android-rteditor-core:1.4.1] /home/shantanu/.android/build-cache/a3dc254d0b6aa15e6999441ca00ded71b0cc42c1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.1gravity:android-rteditor-colorpicker:1.4.1] /home/shantanu/.android/build-cache/d88921264d95a7b7d13986866282473e9f7a8edf/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.5] /home/shantanu/.android/build-cache/0151e8c4c7939ee554f9018867a5bd50a1cc9b36/output/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] /home/shantanu/.android/build-cache/b82bf043ab5b45e92a6fa1eae24ff9ca15ed53bc/output/AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shantanu/.android/build-cache/b09bec42117fa05b17e1e1a6f76f59297c27667f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/e2e61867c302615619c13c53f63388c01e480e7b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/5502f6a8207012fe16d930eb251be7037ff94102/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shantanu/.android/build-cache/a72c41cbf548a6c71624194ae6e58194a2a7beba/output/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/shantanu/.android/build-cache/9d97df7a436f531f8b4013bf2f534bb5cf942998/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:9.8.0] /home/shantanu/.android/build-cache/8efbeed423ddca57352f9c6a85d29edc94aaba91/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/shantanu/.android/build-cache/07d18806c39629ba016316cbd5003a039a61a179/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /home/shantanu/.android/build-cache/b73fde71c0574a797471fa352c591328d318ad5e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shantanu/.android/build-cache/deb71bae15157ca7403fd2684326ae77abd91915/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shantanu/.android/build-cache/bf578d5150b007fee3efcda99c684e101ede64a8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shantanu/.android/build-cache/ac156eed43fdfd0d05b1b50aaa5f6cfd171c11cf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shantanu/.android/build-cache/aedda91c39317c77077853c92e8afb64567bd8c4/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/shantanu/.android/build-cache/2db4ad3657b88560bc3fd0cc8156dc1529028cac/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.camera2
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:15:9-48
+uses-permission#android.permission.CAMERA
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:18:5-65
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:19:5-81
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:21:22-77
+application
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:23:5-84:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/shantanu/.android/build-cache/9981840df3db691c74495308874bd182390f7877/output/AndroidManifest.xml:26:5-20
+MERGED from [com.github.Mariovc:ImagePicker:1.2.0] /home/shantanu/.android/build-cache/40bfaa6c80d0deab095308f6f5f905b77c4b21e6/output/AndroidManifest.xml:26:5-29:19
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:18:5-31:19
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/shantanu/.android/build-cache/018344c328abdea4855da6e438bd01939a667c78/output/AndroidManifest.xml:22:5-20
+MERGED from [com.ms-square:expandableTextView:0.1.4] /home/shantanu/.android/build-cache/7e46853588d66677295a1f3ea72096deb76333e4/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/shantanu/.android/build-cache/9acf8ba013fd30a96c14247e08d948d9fa0914d1/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.mthli:Knife:v1.1] /home/shantanu/.android/build-cache/23816b6b2c47532cb2c9c56245eb7abb0791d984/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.5] /home/shantanu/.android/build-cache/0151e8c4c7939ee554f9018867a5bd50a1cc9b36/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shantanu/.android/build-cache/b09bec42117fa05b17e1e1a6f76f59297c27667f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/e2e61867c302615619c13c53f63388c01e480e7b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/5502f6a8207012fe16d930eb251be7037ff94102/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/shantanu/.android/build-cache/9d97df7a436f531f8b4013bf2f534bb5cf942998/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] /home/shantanu/.android/build-cache/8efbeed423ddca57352f9c6a85d29edc94aaba91/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/shantanu/.android/build-cache/07d18806c39629ba016316cbd5003a039a61a179/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/shantanu/.android/build-cache/b73fde71c0574a797471fa352c591328d318ad5e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shantanu/.android/build-cache/deb71bae15157ca7403fd2684326ae77abd91915/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shantanu/.android/build-cache/bf578d5150b007fee3efcda99c684e101ede64a8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shantanu/.android/build-cache/ac156eed43fdfd0d05b1b50aaa5f6cfd171c11cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shantanu/.android/build-cache/aedda91c39317c77077853c92e8afb64567bd8c4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/shantanu/.android/build-cache/2db4ad3657b88560bc3fd0cc8156dc1529028cac/output/AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:27:9-41
+	android:supportsRtl
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:29:9-35
+	android:hardwareAccelerated
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:25:9-44
+	android:configChanges
+		ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:19:9-44
+	android:allowBackup
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:26:9-44
+	android:largeHeap
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:28:9-33
+	android:theme
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:30:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:31:9-40:20
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:22:9-30:20
+	android:authorities
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:33:13-95
+		INJECTED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml
+		REJECTED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:24:13-66
+	android:grantUriPermissions
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:35:13-47
+	android:exported
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:34:13-37
+	tools:replace
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:36:13-48
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:32:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:37:13-39:65
+MERGED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:27:13-29:65
+	android:resource
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:39:17-62
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:38:17-67
+activity#com.login_signup_screendesign_demo.Splashscreen
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:41:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:46:27-74
+activity#com.login_signup_screendesign_demo.MainActivity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:52:9-60:20
+	android:label
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:53:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:55:13-59:29
+category#android.intent.category.DEFAULT
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:58:17-76
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:58:27-73
+activity#com.login_signup_screendesign_demo.MainActivity2
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:63:13-57
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:62:13-42
+intent-filter#android.intent.action.ALL_APPS+android.intent.category.DEFAULT
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:64:13-68:29
+action#android.intent.action.ALL_APPS
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:65:17-73
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:65:25-70
+activity#com.login_signup_screendesign_demo.Main3Activity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:70:9-51
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:70:19-48
+activity#com.login_signup_screendesign_demo.Answer_Activity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:71:9-53
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:71:19-50
+activity#com.onegravity.rteditor.media.choose.MediaChooserActivity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:72:9-94
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:72:19-91
+activity#com.onegravity.rteditor.media.crop.CropImageActivity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:73:9-89
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:73:19-86
+activity#com.login_signup_screendesign_demo.Main4Activity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:74:9-51
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:74:19-48
+activity#com.login_signup_screendesign_demo.comment
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:75:9-45
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:75:19-42
+activity#com.login_signup_screendesign_demo.education_cred
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:76:9-52
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:76:19-49
+activity#com.login_signup_screendesign_demo.location_cred
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:77:9-51
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:77:19-48
+activity#com.login_signup_screendesign_demo.employment_cred
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:78:9-53
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:78:19-50
+activity#com.login_signup_screendesign_demo.Answer
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:79:9-53
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:79:19-41
+activity#com.login_signup_screendesign_demo.Other_user
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:82:9-48
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:82:19-45
+activity#com.login_signup_screendesign_demo.Main5Activity
+ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:83:9-60
+	android:name
+		ADDED from /home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/src/main/AndroidManifest.xml:83:19-48
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/shantanu/.android/build-cache/9981840df3db691c74495308874bd182390f7877/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/shantanu/.android/build-cache/b09bec42117fa05b17e1e1a6f76f59297c27667f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/e2e61867c302615619c13c53f63388c01e480e7b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/shantanu/.android/build-cache/5502f6a8207012fe16d930eb251be7037ff94102/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/shantanu/.android/build-cache/a72c41cbf548a6c71624194ae6e58194a2a7beba/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/shantanu/.android/build-cache/b73fde71c0574a797471fa352c591328d318ad5e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/shantanu/.android/build-cache/deb71bae15157ca7403fd2684326ae77abd91915/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/shantanu/.android/build-cache/bf578d5150b007fee3efcda99c684e101ede64a8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/shantanu/.android/build-cache/ac156eed43fdfd0d05b1b50aaa5f6cfd171c11cf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/shantanu/.android/build-cache/aedda91c39317c77077853c92e8afb64567bd8c4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/shantanu/.android/build-cache/2db4ad3657b88560bc3fd0cc8156dc1529028cac/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/shantanu/.android/build-cache/09383ef3d15bf32bed4fac6c75d2bd9ba66c7ab6/output/AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera
+ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from [com.github.jrvansuita:PickImage:2.1.4] /home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/AndroidManifest.xml:14:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/AndroidManifest.xml:20:20-65

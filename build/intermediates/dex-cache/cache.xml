@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/0151e8c4c7939ee554f9018867a5bd50a1cc9b36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b6a0f1fae4be78e7e091a79b11053febe9d521b">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_567d0f3e11acf25b438ab8bf7fea84e68cc4b607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/018344c328abdea4855da6e438bd01939a667c78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_193b5c9866d3ecd49009e5e7a3bdcdf53989f0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.1_a65ba4864b7e5b9cc1e2e310393ca41505cb827f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_33a3a9bc1049d0c8306d7213659ac6410008ec34/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/94f7dd752042870d1c9c5b8142f4394d82d877fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_7d12d3bc579998a76a7c69d93b0187941b154e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/a3dc254d0b6aa15e6999441ca00ded71b0cc42c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43537cd8f478c26a0439134ffb161d31d858e431">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_6909fa8a6a8cfa6f2b484fb4eee2cff9fa5e86e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_dc1e20a7cc40c40e79ac5996b09e392f920704ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/glide-3.7.0_749a110c5657c51ad7c4e6449917d292f83738f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/mysql-connector-java-3.0.17-ga-bin.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d8b493d12562fc904a947ea7b84394fe67e8a55">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/mysql-connector-java-3.0.17-ga-bin_f6ee75995703cefe426ae46374e062be21cd1149/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/c6a633c63607f09f77f424b5c52522a7607cedae/rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/rxjava-2.1.3_83dc85c373556cb9e1e7f6af53190aeda477c35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ce6ef58202081b6a66a80d692bd666bfda088a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/7e46853588d66677295a1f3ea72096deb76333e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b305cfd7ae732d7c146fe3046aea90f877c3892b">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_a9a1f799103ff6bb2bbb9746baf5b66b3eab4a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.6/939e074a4f4ce8365acc9a6c2d9c6004ce4029a5/android-mail-1.5.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="939e074a4f4ce8365acc9a6c2d9c6004ce4029a5">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/android-mail-1.5.6_319f21da4a613a25a5fb5b1dfa4d89cd4d48a173.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="337bbbe32ce64876a008e71f4042208a79ba428a">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df3d1bce91d88b95400999ad565006d8514d85eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/4ff6e7d1671a3e59ea2bc915eea580c03c38ab88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_6085804cd5200498dbcd32b378c20005d3a2dbed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/4335742e778d8d15fd3d98f7d2ec6cf003a9842c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_834fc3f4e578a0305eecd7341a15c2547caa543d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/PhotoUtil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/PhotoUtil_965079ca0cbef08d6d72e0971d689a72f6f678e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/0739dcdbd5533168efeb2ac5f769cddbbb0421ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8efd30285cdeac5268713e48fc820d29befd44fc">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_d564beee52b1c3989c5ad46941624526c02d07f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/8e2b977211f8761b4c7ce9024b2e06c054d6ffb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e5887d8688a6bee6f45f9be81c3a3056eb46d5a">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_601004dd46a406c9a0832268a919a98feb9de99c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.6/34c941857c08ff1d6af9a43a8806342883b2a8e1/android-activation-1.5.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c941857c08ff1d6af9a43a8806342883b2a8e1">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/android-activation-1.5.6_874dae18b57aca16c30acdee066e36938c10efa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/d108fda665246803af5edcca4a4cd5f5aca1be0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21a28ff219324575b509d7c471487450d0c04584">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_1dc4e3db887b559ffd9541c30ae89bc21678ccb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_5e6c49605281eab3abde8b4c31b560ccc0b04459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/40bfaa6c80d0deab095308f6f5f905b77c4b21e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a52dbb48cf1b27ab554c5f9dba5237760f162385">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_1478857a6846e2c7d0dcc5ed754809af5e6df9a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/ee8eb1d1134a50f8210565cd7e2762b38890af05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_17c04fe69a41fcb736d100602a019c3096907ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/additionnal_33a3a9bc1049d0c8306d7213659ac6410008ec34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/62339b0bb1431844d6a6ebcef88dd72b9ce5aceb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_a22c9817e948ea4f7514bbde0595c602146b014b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/23816b6b2c47532cb2c9c56245eb7abb0791d984/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37ca756004128e1b554dd52aad9a179fcea18925">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_2e8ca40a5cb9dc161578b0c44e68dd7da95b7a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/b82bf043ab5b45e92a6fa1eae24ff9ca15ed53bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_132a3b911f3493150528e954e9c32ec0e92c8863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/f8210856ffedbc64d7d21c7a79179db0ae8c729f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_c61f61cef196016bbaa62af2c594d1f282fb0b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/49e5048a63fc61bf08d87311e2afded651dfc7c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_8e01d6be478df471d2ca2e899e9477c503473d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.1_d9de0975fdad9ca685b0b8173688a7cc4b2ad59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_1c25d0c8f91640bb1a101062fac4d4d7fb41d030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/mysql-connector-java-3.0.17-ga-bin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d8b493d12562fc904a947ea7b84394fe67e8a55">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/mysql-connector-java-3.0.17-ga-bin_f6ee75995703cefe426ae46374e062be21cd1149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/9d97df7a436f531f8b4013bf2f534bb5cf942998/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_72ad2aa585629f8a943b4448610ab4e8c90021ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_4078d23ae21569e25426dbd9bc11faff5a05d53b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_82497b25ee64a64c230e880801630cfa86b3db0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_2a1b5f0df2e104cfe46fe3d2cb16948184a416ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/d88921264d95a7b7d13986866282473e9f7a8edf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="679eee5976b07a10c696fc9a3c6e3f68b539a295">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_6c6b15a4f8d0520158e36edfad52b14e272d18d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/7571d897bcedb432006b0f9e2874212ef7922dbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_71d3c30460f8553d62d72d38cb3d8d3570aa7586.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/libs/PhotoUtil.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dex/debug/folders/1000/2/PhotoUtil_965079ca0cbef08d6d72e0971d689a72f6f678e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/1785d21049e884bd20ade381fdc2988fcdc59ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_d54b9d06187cf95d68bbc8f67b78cb57553c5685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.android/build-cache/07d18806c39629ba016316cbd5003a039a61a179/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/classes_ff8d4eceb39181c21f06f63ebafab726fdbd9f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_4ceb9c861fd39b60464aeb9a71e5c3ead188ca03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/converter-scalars-2.1.0_a580b8eb1d91071fd33952fb3ea30555e6f614f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c8a5e81eb8ff28a4a8972b4549b4e73f83469c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shantanu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/pre-dexed/debug/gson-2.7_2249a19dacdd3df7950206aedd6d6f60a7ea27f8.jar" />
+    </item>
+
+</items>

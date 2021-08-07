@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/ic_expand_holo_light.xml",
+        "source": "/home/shantanu/.android/build-cache/7e46853588d66677295a1f3ea72096deb76333e4/output/res/drawable-sw600dp/ic_expand_holo_light.xml"
+    },
+    {
+        "merged": "/home/shantanu/AndroidStudioProjects/Login_SignUp_ScreenDesgin_Demo/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/res/merged/debug/drawable-sw600dp-v13/ic_collapse_holo_light.xml",
+        "source": "/home/shantanu/.android/build-cache/7e46853588d66677295a1f3ea72096deb76333e4/output/res/drawable-sw600dp/ic_collapse_holo_light.xml"
+    }
+]
